@@ -1,22 +1,7 @@
-# Umair's Creative Portfolio 🔥
+## Umair's Portfolio
 
-This repository contains **full code** for Next.js Creative Portfolio website built using Next.js. <br />
+Welcome to my personal portfolio! This website is a showcase of my skills and projects in **Cloud Data Engineering** and **Frontend Development**. It highlights my work with cloud technologies, data pipelines, and modern web development frameworks. Built with **Next.js**, **React.js**, and **Tailwind CSS**, this portfolio provides an interactive and responsive experience, demonstrating my passion for clean code and innovative solutions.
 
-For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://umair-portfolio-web.vercel.app/) <br />
+Feel free to explore the projects and learn more about how I bring data to life and create user-friendly interfaces!
 
----
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
----
-
-![Home-desktop](https://github.com/user-attachments/assets/f6f7a6a6-ad48-45dc-9a20-e3ff84c0bdd8)
-
-## Resources Used in This Project
-
-#### Development Resources
-
-- Fonts from [Google Fonts](https://fonts.google.com/) <br />
-- Icons from [Lucide Icons](https://lucide.dev/) <br />
-- Form created using [react-hook-form](https://react-hook-form.com/) <br />
-- Animations using [framer-motion](https://www.framer.com/motion/) <br />
-- Emails using [Emailjs](https://www.emailjs.com/) <br />
+![Portfolio Image](https://github.com/umair7228/umair-portfolio/blob/main/public/front-image.png)
